@@ -1,0 +1,14 @@
+TODOs API
+-List
+GET : https://mi-linux.wlv.ac.uk/~2017754/todo
+
+-Create
+POST : https://mi-linux.wlv.ac.uk/~2017754/todo/create
+
+-Edit
+POST : https://mi-linux.wlv.ac.uk/~2017754/todo/update/{id}
+
+-Delete
+GET: https://mi-linux.wlv.ac.uk/~2017754/todo/delete/{id}
+
+
